@@ -30,13 +30,14 @@ body {
     /*margin: 0;*/
     overflow-x: hidden;
     padding: 5rem;
+    margin-left: 10rem;
 }
 
 p {
     
     /*margin-left: 1rem;*/
     margin-bottom: 4rem;
-    margin-left: 10rem;
+    
     margin-right: 12rem;
 }
 
@@ -78,3 +79,7 @@ img {
     margin-left: 10rem;
 }
 
+div.quoute {
+
+    color: #669f96;
+}
