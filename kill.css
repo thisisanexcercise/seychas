@@ -31,14 +31,13 @@ body {
     overflow-x: hidden;
     padding: 5rem;
     margin-left: 10rem;
+    margin-right: 12rem;
 }
 
 p {
     
     /*margin-left: 1rem;*/
     margin-bottom: 4rem;
-    
-    margin-right: 12rem;
 }
 
  /* unvisited link */
